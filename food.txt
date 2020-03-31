@@ -2,3 +2,7 @@ burger
 pizza
 maggi
 choco
+spreads-
+mustard
+jam
+meyonise
